@@ -66,7 +66,7 @@ Tested under python3.
   - numpy
   - scipy
   - opencv
-  - pyyaml
+  - pyyaml>=3.12
   - packaging
   - [pycocotools](https://github.com/cocodataset/cocoapi)  — for COCO dataset, also available from pip.
   - tensorboardX  — for logging the losses in Tensorboard
